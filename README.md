@@ -28,7 +28,7 @@ They are responsible for providing portability, maintainability and the opportun
 It was using the comments that I was able to adjust a copied java code into the c++ portion I used to construct the project.
 It also helped that I understood at least a little of both languages, but without applying the comments I read I would not have been able to transfer the functions so easily.
 
-#CS 230
+# CS 230
 The most recent file is a software design document I've been working on in my operating systems class. 
 
 As part of the curriculum, I and my classmates examined various parts of the three biggest operating systems in use today: Windows, Macintosh, and Linux.
