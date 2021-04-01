@@ -35,8 +35,10 @@ As part of the curriculum, I and my classmates examined various parts of the thr
 For this assignment in particular, I must answer a series of questions, six to be precise. 
 
 1. Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+
 1a. The Gaming room is, to put it simply, a gaming company which currently has a game for android. They would like to see a functional prototype that could be launched on other platforms. 
 
 2. What did you do particularly well in developing this document?
+
 2a. Once I felt I had all the necessary information, I was able to more accurately define the advantages and weaknesses involved in launching it on the other platforms. After I did this, I was able to define the proper structure for the rest of the system's development. I believe that seeing the feedback from my instructor on previous iterations of the document, I was able to get the feedback I would have gotten from my team were this project more tangible in scope. The feedback proved necessary and seeing the document in action truly illustrated how necessary it is in the development community at large. 
 
