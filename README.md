@@ -1,4 +1,8 @@
 # School
+<!-- toc -->
+- [CS 210] ## CS 210
+- [CS 230] ## CS 230
+<!-- tocstop -->
 # CS 210
 The only project I've submitted thus far is the final project I completed for my CS 210 class with Dr. Chan.
 
