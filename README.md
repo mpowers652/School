@@ -4,7 +4,7 @@
 2. [CS 230](#cs230)
 
 <!-- tocstop -->
-## CS 210
+## CS 210 <a name = "cs210"> </a>
 The only project I've submitted thus far is the final project I completed for my CS 210 class with Dr. Chan.
 
 In it, I was responsible for creating a program responsible for managing a zoo including functions which dictate adding animals among others.
@@ -33,7 +33,7 @@ They are responsible for providing portability, maintainability and the opportun
 It was using the comments that I was able to adjust a copied java code into the c++ portion I used to construct the project.
 It also helped that I understood at least a little of both languages, but without applying the comments I read I would not have been able to transfer the functions so easily.
 
-## CS 230
+## CS 230 <a name = "cs230"> </a>
 The most recent file is a software design document I've been working on in my operating systems class. 
 
 As part of the curriculum, I and my classmates examined various parts of the three biggest operating systems in use today: Windows, Macintosh, and Linux.
