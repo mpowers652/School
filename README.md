@@ -2,6 +2,7 @@
 <!-- toc -->
 1. [CS 210](#cs210)
 2. [CS 230](#cs230)
+3. [CS 250](#cs250)
 
 <!-- tocstop -->
 ## CS 210 <a name = "cs210"> </a>
@@ -62,3 +63,17 @@ For this assignment in particular, I must answer a series of questions, six to b
 6. How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 
 6a. My initial attempt implemented more features than were necessary or called for. This slowed down development times. I thought about it and considered how the application of system security played a part in the development. Once I did, I came to the conclusion that although security is important, it cannot come at the cost of overall system design. Therefore, the security implemented must be balanced with the client's needs and the level of privacy expected for the information contained therein. 
+
+## CS 250 <a name = "cs250"> </a>
+1. How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
+1a. To look simply at user needs, we do not truly understand how to prioritize them according to a customer's needs; we may know for our own needs but not for a customer's. 
+When we break down those needs into user stories that evaluate how a customer views them, we can prioritize them properly in the product backlog. This is further broken down into the sprint backlog or a kanban board or some other communication system being employed. 
+
+2. How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+
+2a. After going through the class just a little bit, I thought about my own views on communication and how that played a role in development. The use of daily scrum meetings helps us to keep one another on track even though we may get distracted over time. The level of communication we see throughout the scrum framework allows us to not only stay on track but allow for the inevitable change. Not only that, but the scrum review allows us to show off what we've done so far to the client and any other notable personalities so that they may be the judge regarding needed updates or acceptance.  
+
+3. What does it mean to be a good team member in software development?
+
+3a. As I've touched on in many points, communication is the most important thing in a team setting, whether that's software development or a basketball team. What makes someone a good team member in my eyes is the ability to keep everyone up to date with what is happening. By doing this, any changes that need to happen can begin immediately instead of two weeks from now when the sprint is over. That is not to say that sending messages is the only important part of communication. It happens both ways. If said team member cannot receive or act on incoming messages, then those changes cannot effectively happen. 
