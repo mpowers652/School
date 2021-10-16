@@ -3,6 +3,7 @@
 1. [CS 210](#cs210)
 2. [CS 230](#cs230)
 3. [CS 250](#cs250)
+4. [CS 255](#cs255)
 
 <!-- tocstop -->
 ## CS 210 <a name = "cs210"> </a>
@@ -77,3 +78,25 @@ When we break down those needs into user stories that evaluate how a customer vi
 3. What does it mean to be a good team member in software development?
 
 3a. As I've touched on in many points, communication is the most important thing in a team setting, whether that's software development or a basketball team. What makes someone a good team member in my eyes is the ability to keep everyone up to date with what is happening. By doing this, any changes that need to happen can begin immediately instead of two weeks from now when the sprint is over. That is not to say that sending messages is the only important part of communication. It happens both ways. If said team member cannot receive or act on incoming messages, then those changes cannot effectively happen. 
+
+## CS 255 <a name = "cs255"> </a>
+
+1. Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+
+1a. DriverPass as a company was interested in improving student drivers' abilities to drive. My team was responsible for creating a website which could handle the finer points of that such as the schedule and the required roles and responsibilities of each person. 
+
+2. What did you do particularly well?
+
+2a. Based on the transcript which was provided, I was able to break down the client's requirements and communicate them to the development team.
+
+3. If you could pick one part of these projects to revise, what would you pick and how would you do it?
+
+3a. The system design document was a little rough when I was completing it. In it, I just stopped and thought about the details surrounding the system that I could think of. In a professional setting, I would hope that I could work with the other members of my team to write a longer list of requirements. They may seem like bad things but they turn the very fluid art of concision into a science that targets what customers are looking for. 
+
+4. How did you interpret the user's needs and implement them into your design? Why is it so important to consider the user's needs when designing?
+
+4a. One document that I constructed in preparation for the first assignment was a list of customer requirements based on the initial transcript. It ran down the list and covered things based on how they would be related. For example, I've got seven bullets that describe the process of reservations and appointments. Some of those same details made it into the UML class diagram. By rereading the transcript of the interview with the client, I was able to order the list into a set of requirements that guided me throughout the development process. If we do not consider the user's needs when designing, we could very well be wasting our time. 
+
+5. How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+
+5a. The approach I took in this case was to break down the customer requirements. Once I did that, I was able to create the UML diagrams I could use to verify the customer's requirements and communicate the same to the rest of the team. 
