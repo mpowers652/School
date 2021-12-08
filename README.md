@@ -4,6 +4,8 @@
 2. [CS 230](#cs230)
 3. [CS 250](#cs250)
 4. [CS 255](#cs255)
+5. [CS 305](#cs305)
+6. [CS 320](#cs320)
 
 <!-- tocstop -->
 ## CS 210 <a name = "cs210"> </a>
@@ -100,3 +102,6 @@ When we break down those needs into user stories that evaluate how a customer vi
 5. How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
 5a. The approach I took in this case was to break down the customer requirements. Once I did that, I was able to create the UML diagrams I could use to verify the customer's requirements and communicate the same to the rest of the team. 
+
+## CS 305 <a name = "cs305"> </a>
+## CS 320 <a name = "cs320"> </a>
