@@ -105,3 +105,15 @@ When we break down those needs into user stories that evaluate how a customer vi
 
 ## CS 305 <a name = "cs305"> </a>
 ## CS 320 <a name = "cs320"> </a>
+
+1. How can I ensure that my code, program, or software is functional and secure?
+
+1a. Test coverage is quite possibly the most important benchmark when answering this question. It illustrates which branches are addressed and which are not. With respect to secure code particularly, no system is 100% secure. We can only test and defend against the threats we can think of. 
+
+2. How do I interpret user needs and incorporate them into a program?
+
+2a. The easiest way to do this is by making them into test cases. For example, Jeff the User wants to change his mouse icon. The actions of the mouse do not change, but simply the display of the mouse does. Will the requirement be restricted to the browser or require system permissions? Breaking down requirements into respective difficulties and security concerns will allow us to set up our test cases, which will then allow us better understanding so we know how to build moving forward. 
+
+3. How do I approach designing software?
+
+3a. Humans make mistakes. It's what we've done for as long as we've existed. Knowing how to remove error by working as a team or ensuring our large designs are well thought through is one of the best things we can do to make these things easier. Communication with your team, pair programming and test driven development are the most important parts of designing a system. When I first started the CS program, I didn't know what any of the three meant in this sense, but in going through the projects over the course of the last year, I can see the practical importance of each of them. 
