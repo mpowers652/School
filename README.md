@@ -104,6 +104,35 @@ When we break down those needs into user stories that evaluate how a customer vi
 5a. The approach I took in this case was to break down the customer requirements. Once I did that, I was able to create the UML diagrams I could use to verify the customer's requirements and communicate the same to the rest of the team. 
 
 ## CS 305 <a name = "cs305"> </a>
+
+1. Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+
+1a. Artemis Financial was, like the name suggests, a financial holdings company who wanted to improve the security of their system.
+
+2. What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
+
+2a. By sticking to the basics, which in this case is the Vulnerabilities Assessment Process Flow Diagram, I was able to assess each particular area that made up the system. Once I did that, I was able to guide the company toward their goals. It is important to code securely because while the stakes may not always be as high as in this scenario, each organization still has its share of private information which could be bad if found in the wrong hands. If we do not do so, said private information could be lost in one form or another. Software security adds a level of trust to a company. For example, the greater the security in the system, the more information the public would trust in the organization. 
+
+3. What about the process of working through the vulnerability assessment did you find challenging or helpful?
+
+3a. Each classification had their own step. Were I to proceed through the collection of information and the possible security flaws on my own, I could find myself disorganized and a touch confused. By simply focusing on one step at a time, I was able to come to a more thorough understanding of the security needs of Artemis. 
+
+4. How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
+
+4a. I simply stepped through the diagram and asked myself, "How is this handled?" For example, in the case of the final project, no outside information came into the system, so no input validation was necessary. As there was no interface with which to work, I was able to move on to the cryptography of the system. Onward I went like that until I finished everything I could. Simply starting from the beginning and going slowly seemed like the way to go. Trying to go too quickly with security can easily create blind spots in the system.
+
+5. How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
+
+5a. In order to do this, I did something quite simple. I built and ran the program. If it didn't work properly, running it would expose that. With respect to the vulnerabilities, the dependency report would expose those. To prevent the code from creating new vulnerabilities, each new clause underwent the same vulnerability assessment as the initial mockup
+
+6. What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
+
+6a. Internet searches, reviewing source material, and communication with those around me all presented some help with this. Staying skeptical of possible issues allowed me to think about them more frequently though which would easily present a new solution. 
+
+7. Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
+
+7a. In this assignment, I illustrate my ability to think critically about potential issues which may arise in a particular scenario. The understanding of issues before they arise in the public forum would save an organization time and money in development costs. 
+
 ## CS 320 <a name = "cs320"> </a>
 
 1. How can I ensure that my code, program, or software is functional and secure?
