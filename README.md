@@ -6,9 +6,10 @@
 4. [CS 255](#cs255)
 5. [CS 305](#cs305)
 6. [CS 320](#cs320)
+7. [CS 330](#cs330)
 
 <!-- tocstop -->
-## CS 210 <a name = "cs210"> </a>
+## CS 210: Programming Languages <a name = "cs210"> </a>
 The only project I've submitted thus far is the final project I completed for my CS 210 class with Dr. Chan.
 
 In it, I was responsible for creating a program responsible for managing a zoo including functions which dictate adding animals among others.
@@ -37,7 +38,7 @@ They are responsible for providing portability, maintainability and the opportun
 It was using the comments that I was able to adjust a copied java code into the c++ portion I used to construct the project.
 It also helped that I understood at least a little of both languages, but without applying the comments I read I would not have been able to transfer the functions so easily.
 
-## CS 230 <a name = "cs230"> </a>
+## CS 230: Operating Platforms <a name = "cs230"> </a>
 The most recent file is a software design document I've been working on in my operating systems class. 
 
 As part of the curriculum, I and my classmates examined various parts of the three biggest operating systems in use today: Windows, Macintosh, and Linux.
@@ -67,7 +68,7 @@ For this assignment in particular, I must answer a series of questions, six to b
 
 6a. My initial attempt implemented more features than were necessary or called for. This slowed down development times. I thought about it and considered how the application of system security played a part in the development. Once I did, I came to the conclusion that although security is important, it cannot come at the cost of overall system design. Therefore, the security implemented must be balanced with the client's needs and the level of privacy expected for the information contained therein. 
 
-## CS 250 <a name = "cs250"> </a>
+## CS 250: Software Development Lifecycle <a name = "cs250"> </a>
 1. How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
 1a. To look simply at user needs, we do not truly understand how to prioritize them according to a customer's needs; we may know for our own needs but not for a customer's. 
@@ -81,7 +82,7 @@ When we break down those needs into user stories that evaluate how a customer vi
 
 3a. As I've touched on in many points, communication is the most important thing in a team setting, whether that's software development or a basketball team. What makes someone a good team member in my eyes is the ability to keep everyone up to date with what is happening. By doing this, any changes that need to happen can begin immediately instead of two weeks from now when the sprint is over. That is not to say that sending messages is the only important part of communication. It happens both ways. If said team member cannot receive or act on incoming messages, then those changes cannot effectively happen. 
 
-## CS 255 <a name = "cs255"> </a>
+## CS 255: System Analysis and Design <a name = "cs255"> </a>
 
 1. Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 
@@ -103,7 +104,7 @@ When we break down those needs into user stories that evaluate how a customer vi
 
 5a. The approach I took in this case was to break down the customer requirements. Once I did that, I was able to create the UML diagrams I could use to verify the customer's requirements and communicate the same to the rest of the team. 
 
-## CS 305 <a name = "cs305"> </a>
+## CS 305: Software Security <a name = "cs305"> </a>
 
 1. Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 
@@ -133,7 +134,7 @@ When we break down those needs into user stories that evaluate how a customer vi
 
 7a. In this assignment, I illustrate my ability to think critically about potential issues which may arise in a particular scenario. The understanding of issues before they arise in the public forum would save an organization time and money in development costs. 
 
-## CS 320 <a name = "cs320"> </a>
+## CS 320: Software Testing and Automation <a name = "cs320"> </a>
 
 1. How can I ensure that my code, program, or software is functional and secure?
 
@@ -146,3 +147,34 @@ When we break down those needs into user stories that evaluate how a customer vi
 3. How do I approach designing software?
 
 3a. Humans make mistakes. It's what we've done for as long as we've existed. Knowing how to remove error by working as a team or ensuring our large designs are well thought through is one of the best things we can do to make these things easier. Communication with your team, pair programming and test driven development are the most important parts of designing a system. When I first started the CS program, I didn't know what any of the three meant in this sense, but in going through the projects over the course of the last year, I can see the practical importance of each of them. 
+
+## CS 330: Computer Graphics and Visualizations<a name = "cs330"> </a>
+
+1. What new design skills has your work on the project helped you to craft?
+
+1a. As part of the development process, I was able to better realize that some specialties are specialties for a reason. While I may understand what I am doing, even if I were to try my hand at what someone else does, it may not turn out nearly as well. In this instance, even though I should have had ample time to do so, I was not able to build it the way I expected to. 
+
+2. What design process did you follow for your project work?
+
+2a. Within each module, there were different tutorials that led us to understand different aspects of what we were trying to build. As I progressed through the course, I saw more and more of what was making the system behave the way it did. I tried to apply the design knowledge I could read to the separate sections I needed to build to get my final product. As I progressed, I faced issues, but without feeling like I had a team to really talk to, I tried my best to power through them. 
+
+3. How could tactics from your design approach be applied in future work?
+
+3a. Whether I am testing specific requirements, or checking the security requirements for a specific program, it helps to understand what the author is trying to say. Understanding the original approach makes it easier to correct any errors I may see during one of those checks. 
+
+4. What new development strategies did you use while working on your 3D scene?
+
+4a. As I was progressing through the various milestones that ultimately led to the grand project, I performed several iterations. Within those iterations, I had working versions that somewhat met requirements and others that didn't. Breaking down the differences in design choices allowed me to see why one thing worked while another didn't. 
+
+5. How did iteration factor into your development?
+
+5a. There were several steps in the final design process. Not every one led to success. As I performed each step, I saw what would work for me and why. I also what wouldn't work for me and investigated why. As I continued, I saw what would lead to the outcome received.
+
+6. How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+
+6a. Within each milestone, I further improved my understanding of modularity. Each separate clause created a different part of the picture. Understanding the separate clauses made it easier to understand the project and draw what I did. 
+
+7. How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+
+7a. While I may not particularly enjoy the work necessary in creating computer graphics, it gave me a greater appreciation for the level of work necessary by graphic designers who may say they have a particular timeline in place for a project of some kind. 
+
