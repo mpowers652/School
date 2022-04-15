@@ -181,48 +181,34 @@ When we break down those needs into user stories that evaluate how a customer vi
 
 ## CS 340: Client/Server Development <a name = "cs340"> </a>
 
-#1. 
-How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way?
+1. How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way?
 
-#1a. 
-What allowed me to do it properly was to modularize the code and break it up using comments so I could easily read what section went with what module. For example, the starter code broke up the code into the app layout, and app interaction sections. I went a step further to break it up into a datatable section, a map section and a pie section. From there, I can break up the program much more effectively. 
+1a. What allowed me to do it properly was to modularize the code and break it up using comments so I could easily read what section went with what module. For example, the starter code broke up the code into the app layout, and app interaction sections. I went a step further to break it up into a datatable section, a map section and a pie section. From there, I can break up the program much more effectively. 
 
-#2.  
-How else could you use this CRUD Python module in the future?
+2. How else could you use this CRUD Python module in the future?
 
-#2a. 
-Due to how it was broken up, I can use the separate modules in addition to the documentation to create graphs or maps in other projects which do not necessarily correspond to this one. 
+2a. Due to how it was broken up, I can use the separate modules in addition to the documentation to create graphs or maps in other projects which do not necessarily correspond to this one. 
 
-#3. 
-How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. 
+3. How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. 
 
-#3a. 
-While it may appear otherwise on paper, a computer scientist is an artist. As such, there are often many ways to solve a problem at hand. All it takes in the end is to look over the source material. In this case and many others, that is the documentation of the language or related projects. Creating the documentation for this project is one of the requirements and as such has shown me the importance of creating well rounded and informative documentation.
+3a. While it may appear otherwise on paper, a computer scientist is an artist. As such, there are often many ways to solve a problem at hand. All it takes in the end is to look over the source material. In this case and many others, that is the documentation of the language or related projects. Creating the documentation for this project is one of the requirements and as such has shown me the importance of creating well rounded and informative documentation.
 
-#4. 
-How did your approach to this project differ from previous assignments in other courses? 
+4. How did your approach to this project differ from previous assignments in other courses? 
 
-#4a. 
-In this project as opposed to others, I got quicker results by looking at the documentation of the methods or objects I was going to be creating. 
+4a. In this project as opposed to others, I got quicker results by looking at the documentation of the methods or objects I was going to be creating. 
 I feel I was quite fortunate that Dash had such thorough documentation and as such, I was able to create a higher quality project. 
 
-#5. 
-What techniques or strategies would you use in the future to create databases to meet other client requests?
+5. What techniques or strategies would you use in the future to create databases to meet other client requests?
 
-#5a. 
-Once I understood the documentation of MongoDB, I was able to create objects that fit within the form requested by the system. 
+5a. Once I understood the documentation of MongoDB, I was able to create objects that fit within the form requested by the system. 
 Maintaining that knowledge is not going to be easy and as a result, I have a copy of the knowledge I can use and reference later on if needed. 
 
-#6. 
-What do computer scientists do, and why does it matter? 
+6. What do computer scientists do, and why does it matter? 
 
-#6a.
-Everything that computer scientists do revolves around data processing. 
+6a. Everything that computer scientists do revolves around data processing. 
 Almost everything that our daily lives run on requires data processing in one form or another. 
 Through a simple connection, it can be seen that almost everything in our daily lives requires computer scientists to process data and shape it into a form that will help us all.
 
-#7. 
-How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+7. How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
-#7a. 
-This project, much like the others, was data processing. By creating filters that applied to the separate specialties, I was able to take what was an overabundance of data and turn it into a usable form.
+7a. This project, much like the others, was data processing. By creating filters that applied to the separate specialties, I was able to take what was an overabundance of data and turn it into a usable form.
