@@ -179,7 +179,7 @@ When we break down those needs into user stories that evaluate how a customer vi
 
 7a. While I may not particularly enjoy the work necessary in creating computer graphics, it gave me a greater appreciation for the level of work necessary by graphic designers who may say they have a particular timeline in place for a project of some kind. 
 
-## CS 340: Client/Server Development <a name = "cs330"> </a>
+## CS 340: Client/Server Development <a name = "cs340"> </a>
 
 #1. 
 How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way?
