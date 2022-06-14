@@ -8,6 +8,7 @@
 6. [CS 320](#cs320)
 7. [CS 330](#cs330)
 8. [CS 340](#cs340)
+9. [CS 370](#cs370}
 
 <!-- tocstop -->
 ## CS 210: Programming Languages <a name = "cs210"> </a>
@@ -212,3 +213,6 @@ Through a simple connection, it can be seen that almost everything in our daily 
 7. How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
 7a. This project, much like the others, was data processing. By creating filters that applied to the separate specialties, I was able to take what was an overabundance of data and turn it into a usable form.
+
+
+## CS 370: Current/Emerging Trends in Computer Science <a name = "cs370"> </a>
