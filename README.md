@@ -8,7 +8,7 @@
 6. [CS 320](#cs320)
 7. [CS 330](#cs330)
 8. [CS 340](#cs340)
-9. [CS 370](#cs370}
+9. [CS 370](#cs370)
 
 <!-- tocstop -->
 ## CS 210: Programming Languages <a name = "cs210"> </a>
