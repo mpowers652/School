@@ -8,7 +8,8 @@
 6. [CS 320](#cs320)
 7. [CS 330](#cs330)
 8. [CS 340](#cs340)
-9. [CS 370](#cs370)
+9. [CS 360](#cs360)
+10. [CS 370](#cs370)
 
 <!-- tocstop -->
 ## CS 210: Programming Languages <a name = "cs210"> </a>
@@ -214,6 +215,53 @@ Through a simple connection, it can be seen that almost everything in our daily 
 
 7a. This project, much like the others, was data processing. By creating filters that applied to the separate specialties, I was able to take what was an overabundance of data and turn it into a usable form.
 
+## CS 360: Mobile Architecture And Programming <a name = "cs360"> </a>
+
+1. Briefly summarize the requirements and goals of the app you developed. 
+
+1a. The app was intended to be an inventory management application. Housed within the walls of the system was the shell to alter item values, augment user access control lists, and display the items of the list. 
+
+2. What screens and features were necessary to support user needs and produce a user-centered UI for the app?
+
+2a. The screens necessary included a login screen complete with support options such as add user or forgot password, the add user screen, the item list, the item detail screen and an option to create an item. 
+
+3. How did your UI designs keep users in mind?
+
+3a. The buttons that managed the basic construction between activities were at the top, outside of any containers that would be housing either the user information or the item information. In addition, the item list screen was intended to include search functionality. 
+
+4. Why were your designs successful?
+
+4a. They were successful because they showed the information in a user-centric manner. Regardless of which information was requested, were the system to be completed as expected, it would have been rendered for the user of the application. 
+
+5. How did you test to ensure your code was functional?
+
+5a. One of the many features of the Android Studio is the use of personal devices as testing locations. Rather than trying to emulate the environment in which it would run, I could see it with my own eyes. If the program did not function as I expected, I could go back to the design studio and finish it up. 
+
+6. Why is this process important and what did it reveal?
+
+6a. Absent alpha and beta tests in a consumer test group, the testing is important to ensure product quality. As we continue the development process, we are responsible for the systems we design. What these tests revealed was that the functionality I expected to see was not there and the code that I was expecting to perform correctly was missing some necessary syntax.
+
+7. How did you approach the process of coding your app?
+
+7a. I broke it down into the constituent parts. Right off the bat, I knew that I would need to have a user login screen. As I thought through possible scenarios, I knew that there would be users who would inevitably forget their password, users would need to be added, and admins would be necessary to manage the systems involved. As I continued the construction, I came up with even more user stories that defined the total user experience as well as the reception of the app. 
+
+8. What techniques or strategies did you use?
+
+8a. I did not feel I had the time to do it, but a scrum board would have been helpful for this as I would have been able to break up the total development into all the tasks, user stories and testing necessary to make the best user experience I could make. 
+
+9. How could these be applied in the future?
+
+9a. The scrum board allows a team to see different user stories and how they affect the total construction. While these same details are not present at the start of the lifecycle, they still affect it. 
+One particular example is the administrator flag in this project. When I started, I was going to create a separate database for administrative users that the system could pull from. When I went in though, I found it was easier to create a flag in the user's profile. As I continued, the way that I would get that flag changed a couple times. At one point, it was a boolean value and at another it was an integer. For that brief time it was an integer, it was because of the possible getter functions I had available. For some reason in one particular spot, there was no getBool method so I had to improvise and the rest ofthe system had to change with it. 
+In such an instance, the program functionality did not change but the construction did. 
+
+10. Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
+
+10a. The most applicable moment that relates to this question is when I was trying to set up the basis for the user addition functionality. When I was working through the logic, my initial thought was to use a while statement but based on how the button functionality would work and when the user would see the popup, I had to change things so it did not have that while loop but rather would popup with a warning tellingn them about the error. 
+
+11. In what specific component from your mobile app were you particularly successful in demonstrting your knowledge, skills, and experience?
+
+11a. The one in which I feel most confident is the user addition function. In it, I was able to think through the user timeline, get the information that the user would provide and work through possible scenarios in which inputting new information would not be valid. 
 
 ## CS 370: Current/Emerging Trends in Computer Science <a name = "cs370"> </a>
 
