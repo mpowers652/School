@@ -216,3 +216,23 @@ Through a simple connection, it can be seen that almost everything in our daily 
 
 
 ## CS 370: Current/Emerging Trends in Computer Science <a name = "cs370"> </a>
+
+1. What code were you given?
+
+1a. As part of the code I would be happy to supply at any given time, I was given the description of the maze, the actions available, the Keras model construction and description and the growth model
+
+2. What code did you create yourself?
+
+2a. The section of code that I created was the training methods.
+
+3. What do computer scientists do and why does it matter?
+
+3a. They work responsibly and ethically to make the world a better place using technology to do so. 
+
+4. How do I approach a problem as a computer scientist?
+
+4a. A problem, no matter how complex, will have various pieces. When we break down the problem into its constituent parts, we can tackle each specific piece individually. Those pieces can then be constructed, and tested, to form the solution that solves the initial problem. 
+
+5. What are my ethical responsibilities to the end user and the organization?
+
+5a. Each piece of technology that I work on with my team will have an eventual impact on people's lives, beit good or bad. It is through the consideration of what that impact will be that I must consider, along with my team, how or even if, I should continue. 
