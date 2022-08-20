@@ -287,3 +287,25 @@ In such an instance, the program functionality did not change but the constructi
 5a. Each piece of technology that I work on with my team will have an eventual impact on people's lives, beit good or bad. It is through the consideration of what that impact will be that I must consider, along with my team, how or even if, I should continue. 
 
 ## CS 465: Full Stack Development Part I <a name = "cs465"> </a>
+
+ 1. Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).
+
+1a. The primary difference I saw between them is how they were structured. The Express and HTML were built using an MVC architecture broken up between different files and templates that were then referenced to create a larger page and make it update information quickly. The SPA on the other hand turned everything into a microservice that was called at once creating a new page that would have to be compiled and created once like a c++ program rather than a constantly changing webpage one would expect of JS or html
+
+2. Why did the backend use a NoSQL MongoDB database?
+
+2a. As opposed to a SQL database, no predefined schema is necessary. This allowed for constant updating of information that could then be referenced and columns added to the tables as the need arose. In a growing company or ideology, not everything will be known at once. If the structure is still unknown, then attempting to force such by using a structured query language will hinder that growth. 
+
+3. How is JSON different from Javascript and how does JSON tie together the frontend and backend development pieces?
+
+3a. The difference comes down to the primary utility. JSON allows the information to be sorted into a schema which could then be either referenced by the back end database or the front end controllers. JS on the other hand is a readable language that allows us to interact with the html using the basic commands (GET, POST, PUT, DELETE)
+
+4. Provide instances in the full stack process when you refactored code to improve functionality and efficiencies, and name the benefits that come from reusable user interface (UI) components.
+
+4a. One in particular is on the templates folder. In the original makeup of the page, there were no templates of any kind making the page run slower than it needed to and potentially filling with errors. By creating a template which could be called, it modularized the page and reduced the number of errors possible.
+
+5. Methods for request and retrieval necessitate various types of API testing of endpoints, in addition to the difficulties of testing with added layers of security. Explain your understanding of methods, endpoints, and security in a full stack application.
+
+5a. In a full stack application, there are four basic functions: POST, GET, PUSH, DELETE. In order to perform one, the client sees the view and they interact leading to the connection to the controller. It is in this moment that depending on the action attempted by the client, if updating or creating information to post to the server, that the authentication happens. The client must show that the password and salt values match in order to do so. Any action other than reading the information is going to require said authentication but it must be built in from the beginning. 
+
+6. How has this course helped you in reaching your professional goals?
