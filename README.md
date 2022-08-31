@@ -309,3 +309,9 @@ In such an instance, the program functionality did not change but the constructi
 5a. In a full stack application, there are four basic functions: POST, GET, PUSH, DELETE. In order to perform one, the client sees the view and they interact leading to the connection to the controller. It is in this moment that depending on the action attempted by the client, if updating or creating information to post to the server, that the authentication happens. The client must show that the password and salt values match in order to do so. Any action other than reading the information is going to require said authentication but it must be built in from the beginning. 
 
 6. How has this course helped you in reaching your professional goals?
+
+6a. I was able to see how all the pieces worked together in a larger application such as would be present in a professional setting. 
+
+7. What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
+
+7a. By seeing the pieces work together, I was able to take a much greater appreciation of the processes involved in the production process. 
