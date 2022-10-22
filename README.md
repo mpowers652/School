@@ -11,6 +11,7 @@
 9. [CS 360](#cs360)
 10. [CS 370](#cs370)
 11. [CS 465](#cs465)
+12. [CS 470](#cs470)
 
 <!-- tocstop -->
 ## CS 210: Programming Languages <a name = "cs210"> </a>
@@ -303,7 +304,7 @@ In such an instance, the program functionality did not change but the constructi
 4. Provide instances in the full stack process when you refactored code to improve functionality and efficiencies, and name the benefits that come from reusable user interface (UI) components.
 
 4a. One in particular is on the templates folder. In the original makeup of the page, there were no templates of any kind making the page run slower than it needed to and potentially filling with errors. By creating a template which could be called, it modularized the page and reduced the number of errors possible.
-
+Fu
 5. Methods for request and retrieval necessitate various types of API testing of endpoints, in addition to the difficulties of testing with added layers of security. Explain your understanding of methods, endpoints, and security in a full stack application.
 
 5a. In a full stack application, there are four basic functions: POST, GET, PUSH, DELETE. In order to perform one, the client sees the view and they interact leading to the connection to the controller. It is in this moment that depending on the action attempted by the client, if updating or creating information to post to the server, that the authentication happens. The client must show that the password and salt values match in order to do so. Any action other than reading the information is going to require said authentication but it must be built in from the beginning. 
@@ -315,3 +316,29 @@ In such an instance, the program functionality did not change but the constructi
 7. What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
 
 7a. By seeing the pieces work together, I was able to take a much greater appreciation of the processes involved in the production process. 
+
+## CS 470 Full Stack Development II <a name = "cs470"> </a>
+
+1. Explain how this course will help you in reaching your professional goals.
+
+2. What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
+
+3. Describe your strengths as a software developer
+
+4. Identify the types of roles you are prepared to assume in a new job.
+
+5. Synthesize the knowledge you have gathered about cloud services
+
+6. Identify various ways that microservices or serverless may be used to produce efficiencies of management and scale in your web application in the future.
+
+7. How would you handle scale and error handling?
+
+8. How would you predict the cost?
+
+9. What is more cost predictable, containers or serverless?
+
+10. Explain several pros and cons that would be deciding factors in plans for expansion.
+
+11. What roles do elasticity and pay-for-service play in decision making for planned future growth?
+
+All answers to the above questions for CS 470 are answered by the attached PDF 
